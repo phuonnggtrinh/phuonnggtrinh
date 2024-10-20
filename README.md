@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @phuonnggtrinh
-- 👀 I’m interested in numbers
 - 🌱 I’m currently learning about Data Analyst
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data analysis projects, exploring trends and insights through tools like Python, SQL, and Power BI.
+
 
 
 <!---
